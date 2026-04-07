@@ -28,18 +28,22 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 
 ---
 
+## 📊 GitHub Insights
+| Feature | Count |
+| :--- | :--- |
+| 🚀 Public Repositories | **23** |
+| 👥 Followers | **8** |
+| 👤 Following | **27** |
+| 🏠 Location | **HCM City** |
+| 🌐 Website | [chithien.io.vn](https://chithien.io.vn) |
+
+---
+
 ## 🛠️ Tech Stack & Arsenal
 - **AI & Agents:** Pydantic-AI, Ragflow, OpenRouter, **Agent Orchestration**, **Context & Behavior Control**.
 - **Backend & Arch:** FastAPI, Next.js, Django, **Multi-worker Design**, **Clean Architecture**.
 - **Infra & Observability:** Docker, Kubernetes, **Zero Trust Networking** (Cloudflare), **OpenTelemetry (Otel)**, Linux.
 - **Tools:** Neovim 🌙, Git, Jira, CI/CD.
-
----
-
-## 📊 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laichithien&theme=github-light" alt="Thien's Activity Graph" />
-</p>
 
 ---
 
