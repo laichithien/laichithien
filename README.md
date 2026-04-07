@@ -37,8 +37,8 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 ---
 
 ## 📊 GitHub Stats & Open Source
-![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=laichithien&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laichithien&layout=compact&theme=transparent)
+![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=laichithien&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laichithien&layout=compact&theme=radical)
 
 ---
 
