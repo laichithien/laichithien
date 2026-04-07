@@ -1,18 +1,52 @@
-<h1 align="center">Hi 👋, I'm Thien Lai</h1>
-<h3 align="center">Student at University of Information Technology, VNU-HCM</h3>
+# Hi 👋, I'm Thien Lai
 
-- 🔭 I’m currently working on [University of Information Technoology, VNU-HCM](https://www.uit.edu.vn/)
+### Machine Learning Engineer | Agentic AI Specialist | AI Researcher
 
-- 🌱 I’m currently learning **Artificial Intelligence, Computer Vision, Android and Web Development**
+Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. Currently an **AI Engineer at Vexere**. My ultimate goal is to **leverage the power of Information Technology to help as many people as possible**, creating intelligent systems that make a real difference in daily life.
 
-- 📫 How to reach me **laichithien3@gmail.com** (Personal email) or **20520309@gm.uit.edu.vn** (Business email)
+---
 
-- 👨‍💻 My research group: **<a href="https://uit-together.github.io/?fbclid=IwAR1va9U7n2wXFMybcU55gqFaFt0hCpWSLOl9QVCfLJpbAzzyk0KgfE6s4Ws">UIT-Together Research Group</a>**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chi-thien-lai-313ab3219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chi Thien Lai" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ChiThien2k2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lại Chí Thiện" height="30" width="40" /></a>
-</p>
+## 🚀 Professional Focus
+- **Agentic AI & RAG:** Designing modular agent systems using **Pydantic-AI**, **Ragflow**, and **OpenRouter**. Expert in **Human-in-the-loop** tool execution engines.
+- **Machine Learning & CV:** Published researcher in Object Detection (IEEE RIVF). Extensive experience with **PyTorch**, **OpenCV**, and **ONNX Runtime**.
+- **Software Engineering:** Strong emphasis on production standards: **Unit Testing**, **CI/CD**, **Ruff**, and system observability (**Logfire**, **Kibana**, **k9s**).
+- **Automation:** Developed **VuSEO** (processing 40-50 articles/day) and complex **Ticket Exchange** automation flows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+## 🏆 Featured Publications & Achievements
+
+### 📝 Publications
+- **[Empirical Study of the Performance of Object Detection Methods on Road Marking Dataset](http://dx.doi.org/10.1109/RIVF55975.2022.10013909)**
+  *IEEE RIVF 2022* | Lead Researcher on road marking analysis.
+
+### 🎖️ Honors
+- **GPA:** 8.42/10 | **Rank:** Top 10/32 Graduating Students @ UIT.
+- **Innovation Award:** AI Tempo Run Competition 2021 (UIT AI Club).
+- **IELTS:** 7.0 🌍
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+- **Languages:** Python (Expert), C++, JavaScript/TypeScript, Vietnamese (Native), English (C1).
+- **Frameworks:** FastAPI, Next.js, Django, React Native, Strapi.
+- **AI/ML:** Pydantic-AI, PyTorch, NumPy, Pandas, Polars, Scikit-learn.
+- **Infra:** Docker, Kubernetes (k9s), Cloudflare Tunnels, Linux, Git.
+- **Tools:** Neovim 🌙, Logfire, Kibana, Jira.
+
+---
+
+## 📊 GitHub Stats & Open Source
+![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=laichithien&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laichithien&layout=compact&theme=transparent)
+
+---
+
+## 📫 Connect with me:
+- **Digital Home:** [chithien.io.vn](https://chithien.io.vn)
+- **LinkedIn:** [Chi Thien Lai](https://www.linkedin.com/in/chi-thien-lai)
+- **Email:** [laichithien3@gmail.com](mailto:laichithien3@gmail.com)
+
+---
+
+*“Leveraging technology to empower humanity.”* 😼🔥
