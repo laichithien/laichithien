@@ -39,8 +39,8 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 
 ## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laichithien&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laichithien&theme=radical" alt="Most Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laichithien&theme=neutral" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laichithien&theme=neutral" alt="Most Commit Languages" />
 </p>
 
 ---
