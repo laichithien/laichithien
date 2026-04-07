@@ -1,18 +1,18 @@
 # Hi 👋, I'm Thien Lai
 
-### Machine Learning Engineer | Agentic AI Specialist | AI Researcher
+### Machine Learning Engineer | Agentic AI Specialist | Software Architect
 
-Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. Currently an **AI Engineer at Vexere**. My ultimate goal is to **leverage the power of Information Technology to help as many people as possible**, creating intelligent systems that make a real difference in daily life.
+Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. Currently an **AI Engineer at Vexere**. My ultimate goal is to **leverage the power of Information Technology to help as many people as possible**, creating intelligent, scalable systems that make a real difference.
 
 ---
 
 ## 🚀 Professional Focus
 - **Agentic Systems & Automation:** Specialized in building robust **Agentic AI architectures**. Expert in deeply integrating AI into complex workflows to maximize productivity.
-- **Advanced LLM Control:** Highly skilled in **manipulating agent behavior and message history context**, ensuring precise and reliable AI outputs tailored to specific business needs.
-- **Monitoring & Observability:** Experienced in implementing advanced **Logging & Monitoring** systems using **OpenTelemetry (Otel)** to track agent behavior, ensuring high reliability and security in production environments.
-- **Bot Management & Scalability:** Skilled in managing fleets of bots with a focus on **modular design**, ensuring agents are flexible, reusable, and highly adaptable.
-- **Dynamic Adaptation:** Crafting intelligent systems with the ability to **adapt dynamically over time**, evolving alongside user needs and environmental shifts.
-- **Computer Vision:** Published researcher in Object Detection (IEEE RIVF). Extensive experience with **PyTorch**, **OpenCV**, and **ONNX Runtime**.
+- **Scalable Chat Architecture:** Extensive experience in designing **Multi-worker systems** for high-concurrency chat platforms, ensuring seamless service for large user bases.
+- **Software Excellence:** Strong advocate for **Clean Code**, **Design Patterns**, and **Clean Architecture** to build maintainable and reliable production systems.
+- **Advanced LLM Control:** Highly skilled in **manipulating agent behavior and message history context** for precise and reliable AI outputs.
+- **Monitoring & Observability:** Implementing advanced **Logging & Monitoring** using **OpenTelemetry (Otel)** to ensure production-grade reliability.
+- **Computer Vision:** Published researcher in Object Detection (IEEE RIVF) with experience in **PyTorch** and **ONNX Runtime**.
 
 ---
 
@@ -30,11 +30,10 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 ---
 
 ## 🛠️ Tech Stack & Arsenal
-- **Languages:** Python (Expert), C++, JavaScript/TypeScript, Vietnamese (Native), English (C1).
-- **Frameworks:** FastAPI, Next.js, Django, React Native, Strapi.
-- **AI & Agents:** Pydantic-AI, Ragflow, OpenRouter, **Context Manipulation**, **Behavior Steering**.
-- **Infra & Observability:** Docker, Kubernetes, Cloudflare Tunnels, **OpenTelemetry (Otel)**, **Kibana**, Linux.
-- **Tools:** Neovim 🌙, Git, Jira.
+- **AI & Agents:** Pydantic-AI, Ragflow, OpenRouter, **Agent Orchestration**, **Context & Behavior Control**.
+- **Backend & Arch:** FastAPI, Next.js, Django, **Multi-worker Design**, **Clean Architecture**.
+- **Infra & Observability:** Docker, Kubernetes, **Zero Trust Networking** (Cloudflare), **OpenTelemetry (Otel)**, Linux.
+- **Tools:** Neovim 🌙, Git, Jira, CI/CD.
 
 ---
 
@@ -53,4 +52,4 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 
 ---
 
-*“Leveraging technology to empower humanity through intelligent adaptation and precise AI control.”* 😼🔥
+*“Engineering intelligent, scalable solutions to empower humanity through code and character.”* 😼🔥
