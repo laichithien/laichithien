@@ -8,10 +8,9 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 
 ## 🚀 Professional Focus
 - **Agentic Systems & Automation:** Specialized in building robust **Agentic AI architectures**. Expert in deeply integrating AI into complex workflows to maximize productivity.
-- **Scalable Chat Architecture:** Extensive experience in designing **Multi-worker systems** for high-concurrency chat platforms, ensuring seamless service for large user bases.
-- **Software Excellence:** Strong advocate for **Clean Code**, **Design Patterns**, and **Clean Architecture** to build maintainable and reliable production systems.
 - **Advanced LLM Control:** Highly skilled in **manipulating agent behavior and message history context** for precise and reliable AI outputs.
 - **Monitoring & Observability:** Implementing advanced **Logging & Monitoring** using **OpenTelemetry (Otel)** to ensure production-grade reliability.
+- **Software Excellence:** Strong advocate for **Clean Code**, **Design Patterns**, and **Clean Architecture**.
 - **Computer Vision:** Published researcher in Object Detection (IEEE RIVF) with experience in **PyTorch** and **ONNX Runtime**.
 
 ---
@@ -37,9 +36,10 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 
 ---
 
-## 📊 GitHub Stats
-[![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=laichithien&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laichithien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laichithien&theme=github-light" alt="Thien's Activity Graph" />
+</p>
 
 ---
 
