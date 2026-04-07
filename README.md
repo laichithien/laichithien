@@ -7,10 +7,11 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 ---
 
 ## 🚀 Professional Focus
-- **Agentic AI & RAG:** Designing modular agent systems using **Pydantic-AI**, **Ragflow**, and **OpenRouter**. Expert in **Human-in-the-loop** tool execution engines.
-- **Machine Learning & CV:** Published researcher in Object Detection (IEEE RIVF). Extensive experience with **PyTorch**, **OpenCV**, and **ONNX Runtime**.
-- **Software Engineering:** Strong emphasis on production standards: **Unit Testing**, **CI/CD**, **Ruff**, and system observability (**Logfire**, **Kibana**, **k9s**).
-- **Automation:** Developed **VuSEO** (processing 40-50 articles/day) and complex **Ticket Exchange** automation flows.
+- **Agentic Systems & Automation:** Specialized in building robust **Agentic AI architectures** for diverse purposes. Expert in deeply integrating AI into complex workflows to maximize productivity and operational efficiency.
+- **Monitoring & Observability:** Experienced in implementing advanced **Logging & Monitoring** systems to track agent behavior, ensuring high reliability and security in production.
+- **Bot Management & Scalability:** Skilled in managing fleets of bots with a focus on **modular design**, ensuring agents are flexible, reusable, and highly adaptable to changing environments.
+- **Dynamic Adaptation:** Crafting intelligent systems with the ability to **adapt dynamically over time**, evolving alongside user needs and environmental shifts.
+- **Computer Vision:** Published researcher in Object Detection (IEEE RIVF). Extensive experience with **PyTorch**, **OpenCV**, and **ONNX Runtime**.
 
 ---
 
@@ -30,9 +31,9 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 ## 🛠️ Tech Stack & Arsenal
 - **Languages:** Python (Expert), C++, JavaScript/TypeScript, Vietnamese (Native), English (C1).
 - **Frameworks:** FastAPI, Next.js, Django, React Native, Strapi.
-- **AI/ML:** Pydantic-AI, PyTorch, NumPy, Pandas, Polars, Scikit-learn.
-- **Infra:** Docker, Kubernetes (k9s), Cloudflare Tunnels, Linux, Git.
-- **Tools:** Neovim 🌙, Logfire, Kibana, Jira.
+- **AI & Agents:** Pydantic-AI, Ragflow, OpenRouter, **Agent Orchestration**, **Dynamic Prompting**.
+- **Infra & Observability:** Docker, Kubernetes, Cloudflare Tunnels, **Logfire**, **Kibana**, Linux.
+- **Tools:** Neovim 🌙, Git, Jira.
 
 ---
 
@@ -51,4 +52,4 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 
 ---
 
-*“Leveraging technology to empower humanity.”* 😼🔥
+*“Leveraging technology to empower humanity through intelligent adaptation.”* 😼🔥
