@@ -38,10 +38,8 @@ Fresh Graduate (Top 10/32) from **University of Information Technology (UIT)**. 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laichithien&show_icons=true&theme=vue" alt="Thien's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laichithien&layout=compact&theme=vue" alt="Top Langs" />
-</p>
+[![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=laichithien&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laichithien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
